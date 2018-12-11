@@ -1,0 +1,31 @@
+/* .App {
+  text-align: center;
+} */
+
+.centrar-boton{
+ width: 200px;
+ height: 100px;
+
+
+}
+
+.alinear-p{
+display: inline;
+font-size: 15px;
+}
+
+.alinear-div{
+  display: inline;
+  font-size: 15px;
+}
+
+.azul{
+  color: dodgerblue;
+}
+
+.naranja{
+  color:orange;
+}
+.morado{
+  color: violet;
+}
